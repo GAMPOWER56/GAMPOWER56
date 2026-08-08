@@ -94,5 +94,5 @@
 
 ## 📬 Contact
 
-- 📧 이메일: _(추가 예정)_
+- 📧 이메일: _cooldk@hanyang.ac.kr_
 - 🏫 소속: 한양대학교 에리카 전자공학부 ASDL
