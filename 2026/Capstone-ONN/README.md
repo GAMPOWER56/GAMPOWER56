@@ -28,4 +28,5 @@
 
 ## 🖼️ Progress Diagrams
 
-*(메타렌즈 기반 광학 컴퓨팅 시스템 개념 모식도 및 현재 진행 단계 레이아웃 이미지 첨부)*
+<img width="1050" height="1400" alt="KakaoTalk_20260811_123409321_01" src="https://github.com/user-attachments/assets/80552343-0362-44c5-a9e8-7e3d60adab02" />
+
