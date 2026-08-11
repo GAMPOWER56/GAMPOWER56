@@ -1,4 +1,4 @@
-[Lumerical MODE_260811_095038.pdf](https://github.com/user-attachments/files/30918734/Lumerical.MODE_260811_095038.pdf)[Lumerical MODE_260811_095038.pdf](https://github.com/user-attachments/files/30918721/Lumerical.MODE_260811_095038.pdf)# 📚 Study Notes | IIT Guwahati 인턴십 (2026.01 ~ 02)
+# 📚 Study Notes | IIT Guwahati 인턴십 (2026.01 ~ 02)
 
 인턴십 기간 동안 실리콘 포토닉스 소자 설계를 위해 학습한 내용을 정리한 노트입니다.
 시뮬레이션 실습과 병행하며 작성했습니다.
