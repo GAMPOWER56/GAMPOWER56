@@ -10,7 +10,7 @@
 
 본 연구의 공식 투고 논문 원본 및 학술대회 발표 포스터 자료입니다.
 
-* 📄 **[ICROS 2026 학술대회 투고 논문.PDF](https://github.com/user-attachments/files/30921181/ICROS_2026_.-._.pdf)**
+* 📄 **[ICROS 2026 학술대회 투고 논문.pdf](https://github.com/user-attachments/files/30921181/ICROS_2026_.-._.pdf)**
 
 * 📊 **[ICROS 2026 발표 포스터.pdf](https://github.com/user-attachments/files/30921185/ICROS_poster_._.pdf)**
 
