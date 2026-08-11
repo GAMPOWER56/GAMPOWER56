@@ -44,6 +44,4 @@ Lumerical FDTD (3D 전자기장 시뮬레이션 → 투과율, 반사율, 필드
 - Standard Workflow — Setup → Run → Post-processing → Iteration
 - Boundary Conditions (PML), Mesh Override 설정
 - S-parameter 추출 → Lumerical INTERCONNECT 회로 시뮬레이션 연계
-- Q-factor, FSR, Extinction Ratio 분석[Lumerical simulator_260811_095053.pdf](https://github.com/user-attachments/files/30918699/Lumerical.simulator_260811_095053.pdf)
-[Lumerical MODE_260811_095038.pdf](https://github.com/user-attachments/files/30918696/Lumerical.MODE_260811_095038.pdf)
-[반도체공학 정리_260811_095059.pdf](https://github.com/user-attachments/files/30918693/_260811_095059.pdf)
+- Q-factor, FSR, Extinction Ratio 분석.
