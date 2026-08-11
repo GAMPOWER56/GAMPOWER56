@@ -1,4 +1,4 @@
-# Metalens-based Phase System & ONN Experiments | Capstone (2026.03 ~ Present)
+# Metalens-based Phase System & ONN Experiments | Capstone (2026.03 ~ Present) | 현재 프로젝트 구상 단계
 
 > **캡스톤 디자인 (메타렌즈 & 광학 컴퓨팅 연구)**  
 > **기간:** 2026.03 ~ 진행 중  
