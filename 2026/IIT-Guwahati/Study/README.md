@@ -8,6 +8,7 @@
 ## 파일 목록
 
 | 파일 | 내용 | 비고 |
+|------|------|------|
 | [01_semiconductor_physics.pdf](<../관련자료/반도체공학 정리_260811_095059.pdf>) | 반도체 물리 기초 — Energy Band, p-n Junction, LED | 소자 설계 전 필수 이론 |
 | [02_lumerical_MODE.pdf](<../관련자료/Lumerical MODE_260811_095038.pdf>) | Lumerical MODE 사용법 — 도파관 유효굴절률, Group Index 계산 | 도파관 설계 실습 병행 |
 | [03_lumerical_FDTD.pdf](<../관련자료/Lumerical simulator_260811_095053.pdf>) | Lumerical FDTD 사용법 — 시뮬레이션 세팅, Convergence Test, S-parameter 추출 | Grating Coupler 최적화에 활용 |
