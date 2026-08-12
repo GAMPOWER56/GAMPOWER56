@@ -51,30 +51,40 @@
 
 ## 🎥 Evidence
 
+### 실제 동작 확인
 
-**VR 핸드 트래킹 실제 동작 화면** (Meta Quest 패스스루 + 손 스켈레톤 오버레이)
+**VR 헤드셋 패스스루 화면 — 손 스켈레톤 실시간 트래킹**
 
-<img width="1464" height="812" alt="image" src="https://github.com/user-attachments/assets/3b158aa8-7a75-49d8-be84-7d4ff2135e2b" />
+![vr passthrough](<관련자료/01_vr_passthrough_hand_skeleton.png>)
 
+*▲ Meta Quest 패스스루로 실제 작업 데스크가 보이는 동시에, 손 관절 트래킹(빨강/초록/파랑 스켈레톤)이 실시간으로 겹쳐 표시되는 것을 확인.*
 
-VR 헤드셋 착용 상태에서 실제 작업 데스크가 패스스루로 보이는 동시에, 손 관절 트래킹 스켈레톤(빨강/초록/파랑 라인)이 실시간으로 겹쳐 표시되는 것을 확인. 이 트래킹 데이터가 ROS2 토픽으로 발행됨.
+**VR 그리드 환경 — 핸드 트래킹 동작 GIF**
 
----
+![hand tracking demo](<관련자료/02_hand_tracking_grid_demo.gif>)
 
-**ROS2 토픽 발행 검증**
-
-[img-007-final3.png — joint_trajectory echo]
-
-손을 움직이면 `/left_hand/joint_trajectory` 토픽에 실시간으로 좌표값이 발행되는 것을 터미널에서 직접 확인.
+*▲ 손을 움직이면 VR 공간 내 스켈레톤이 실시간으로 따라 움직이는 것을 확인.*
 
 ---
 
-**Isaac Sim 연동 구조**
+### 통신 파이프라인 구성
 
-[img-019.png — 로봇 collision mesh]
-[img-017.png — OmniGraph Action Graph]
-[img-018.png — Joint Angular Drive 파라미터 패널]
+| 화면 | 설명 |
+|------|------|
+| ![vuer interface](<관련자료/03_vuer_webxr_interface.png>) | Vuer(WebXR) 인터페이스 — Hands 컨트롤 패널, FPS/Stream 설정 |
+| ![topic echo](<관련자료/04_joint_trajectory_topic_echo.png>) | `/left_hand/joint_trajectory` 토픽 echo — 손 움직임에 따라 실시간으로 좌표값이 발행되는 것을 직접 검증 |
+| ![topic list](<관련자료/05_ros2_topic_list.png>) | `ros2 topic list` — VR 관련 토픽들(`/vr_hand/*`, `/vr_control/toggle` 등)이 정상 발행되는 것 확인 |
 
+---
+
+### Isaac Sim 연동 구성
+
+| 화면 | 설명 |
+|------|------|
+| ![omnigraph](<관련자료/06_omnigraph_action_graph.png>) | OmniGraph Action Graph — ROS2 Publish/Subscribe Joint State, Articulation Controller 노드 연결 |
+| ![joint params](<관련자료/07_joint_angular_drive_params.png>) | Joint Angular Drive 파라미터 — Python/USD API로 일괄 적용한 Damping·Stiffness 값 |
+| ![robot mesh](<관련자료/08_isaac_sim_robot_collision_mesh.png>) | Isaac Sim 내 ai_worker 로봇, collision mesh(초록 와이어프레임) 표시 |
+| ![physics scene](<관련자료/09_physics_scene_settings.png>) | Physics Scene 설정 — Gravity, Solver Type(TGS), CCD 활성화 등 |
 ---
 
 ## ✅ 결론
