@@ -85,6 +85,7 @@
 | ![joint params](<관련자료/07_joint_angular_drive_params.png>) | Joint Angular Drive 파라미터 — Python/USD API로 일괄 적용한 Damping·Stiffness 값 |
 | ![robot mesh](<관련자료/08_isaac_sim_robot_collision_mesh.png>) | Isaac Sim 내 ai_worker 로봇, collision mesh(초록 와이어프레임) 표시 |
 | ![physics scene](<관련자료/09_physics_scene_settings.png>) | Physics Scene 설정 — Gravity, Solver Type(TGS), CCD 활성화 등 |
+
 ---
 
 ## ✅ 결론
