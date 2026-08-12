@@ -51,7 +51,29 @@
 
 ## 🎥 Evidence
 
-*(스크린 녹화 캡처 예정 — 개인정보·랩 내부 경로 크롭 후 업로드)*
+
+**VR 핸드 트래킹 실제 동작 화면** (Meta Quest 패스스루 + 손 스켈레톤 오버레이)
+
+<img width="1464" height="812" alt="image" src="https://github.com/user-attachments/assets/3b158aa8-7a75-49d8-be84-7d4ff2135e2b" />
+
+
+VR 헤드셋 착용 상태에서 실제 작업 데스크가 패스스루로 보이는 동시에, 손 관절 트래킹 스켈레톤(빨강/초록/파랑 라인)이 실시간으로 겹쳐 표시되는 것을 확인. 이 트래킹 데이터가 ROS2 토픽으로 발행됨.
+
+---
+
+**ROS2 토픽 발행 검증**
+
+[img-007-final3.png — joint_trajectory echo]
+
+손을 움직이면 `/left_hand/joint_trajectory` 토픽에 실시간으로 좌표값이 발행되는 것을 터미널에서 직접 확인.
+
+---
+
+**Isaac Sim 연동 구조**
+
+[img-019.png — 로봇 collision mesh]
+[img-017.png — OmniGraph Action Graph]
+[img-018.png — Joint Angular Drive 파라미터 패널]
 
 ---
 
