@@ -9,7 +9,7 @@ Lumerical FDTD · MODE를 활용한 실리콘 포토닉스 광소자 시뮬레�
 
 | 차수 | 소자 | 핵심 내용 | 결과 | 노트 |
 |------|------|-----------|------|------|
-| 1차 | 직선 웨이브가이드 | varFDTD 기본 세팅, Monitor 3종 설정, Convergence Test | 투과율 90% → **92%** | [📄](<관련자료/1차 직선 웨이브가이드_260811_095048.pdf>) |
+| 1차 | 직선 웨이브가이드 | varFDTD 기본 세팅, Monitor 3종 설정, Convergence Test | 투과율 90% → **92%** | [📄](<../관련자료/1차 직선 웨이브가이드_260811_095048.pdf>) |
 | 2차 | 굴은 웨이브가이드 | Euler Bend 구조, 오일러 밴드 스크립트 작성 | Bend Loss 측정, 투과율 70~80% | [📄](https://github.com/user-attachments/files/30918976/2._260811_095043.pdf) |
 | 3차 | 방향성 결합기 (DC) | Evanescent wave 결합 원리, Gap 200nm 최적화 | 결합 확인 | [📄](https://github.com/user-attachments/files/30918983/3.DC_260811_095037.pdf) |
 | 4차 | Y-Branch | S-parameter 추출, INTERCONNECT 연계, MZI 구성 요소 | T = 0.99% (50:50 분배) | [📄](https://github.com/user-attachments/files/30919002/4.YBranch_260811_095034.pdf) |
