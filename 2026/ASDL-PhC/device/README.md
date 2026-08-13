@@ -41,14 +41,29 @@
 
 ## 🎥 Evidence
 
-> 📸 *사진/스크린샷 추가 예정 — 아래는 추가 시 넣으면 좋을 항목 가이드*
+### 1. 마스크 레이아웃 설계
 
-| 넣으면 좋은 자료 | 이유 |
-|------|------|
-| GME 밴드구조 계산 결과 그래프 (구체적 수치축 라벨은 가리고 형태만) | 문헌 재현 검증 과정을 시각적으로 증빙 |
-| Lumerical FDTD 시뮬레이션 화면 (구조/모니터 설정 뷰, 결과값 노출 없이) | 3D 시뮬레이션 환경 구축을 직접 수행했음을 보여줌 |
-| 크리티컬 커플링 개념도 (Q_in-plane vs Q_vertical 트레이드오프 다이어그램) | 설계 철학을 한눈에 전달하는 핵심 자료 |
-| 마스크 GDS 레이아웃 뷰 (치수/파라미터 라벨 제외) | 설계 → 마스크 제작 전환 과정 증빙 |
+![klayout air open layer](<관련자료/01_klayout_air_open_layer.png>)
+
+*▲ KLayout Air-open 레이어 뷰 — 서스펜드 불가한 플랫폼 조건에서 위쪽만 open하는 영역을 별도 레이어로 정의*
+
+![klayout hole array pattern](<관련자료/02_klayout_hole_array_pattern.png>)
+
+*▲ PhC 홀 어레이 패턴 — 격자 형태로 배치된 W1 캐비티 구조 (구체적 홀 반경·격자 상수 값은 비공개)*
+
+![klayout taper transition](<관련자료/03_klayout_taper_transition.png>)
+
+*▲ 테일러 영역에서 PhC 홀 어레이로 이어지는 전환부 레이아웃*
+
+### 2. FDTD 시뮬레이션 환경
+
+![lumerical fdtd environment](<관련자료/04_lumerical_fdtd_environment.png>)
+
+*▲ Lumerical FDTD 작업 환경 — Objects Tree에 홀 구조 하나하나가 개별 오브젝트로 정의되어 있고, XY/XZ/YZ/Perspective 4분할 뷰로 구조를 확인하며 스크립트 기반으로 시뮬레이션을 구성*
+
+![lumerical perspective render](<관련자료/05_lumerical_perspective_render.png>)
+
+*▲ 시뮬레이션 대상 소자의 3D Perspective 뷰 (Si 기판 - BOX - SiN 슬랩 - 위쪽 open 구조)*
 
 ---
 
