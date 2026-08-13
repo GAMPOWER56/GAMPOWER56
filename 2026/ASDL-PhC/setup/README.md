@@ -1,4 +1,4 @@
-# 🔭 Free-Space Cross-Polarization PhC Cavity Measurement System | ASDL (2026.03 ~ 진행 중)
+# Free-Space Cross-Polarization PhC Cavity Measurement System | ASDL (2026.03 ~ 진행 중)
 
 > **한양대학교 ERICA ASDL(김영현 교수님 연구실) 학부연구생**
 > **기간:** 2026.03 ~ 진행 중
@@ -58,23 +58,23 @@
 
 ### 1. 부품 입고
 
-![collimator delivery](<관련자료/01_collimator_delivery.jpg>)
+![collimator delivery](<관련자료/KakaoTalk_20260813_112452547_02.jpg>)
 
 *▲ 입력·출력용 콜리메이터(Thorlabs C20APC-C) 2개 입고 확인*
 
-![beamsplitter delivery](<관련자료/02_beamsplitter_delivery.jpg>)
+![beamsplitter delivery](<관련자료/KakaoTalk_20260813_112452547_01.jpg>)
 
 *▲ 30mm 케이지 마운트형 비편광 50:50 빔스플리터 큐브(Thorlabs CCM1-BS0□□/M 시리즈) 3개 입고 확인*
 
 ### 2. 작업 공간 준비
 
-![workspace setup](<관련자료/03_workspace_setup.jpg>)
+![workspace setup](<관련자료/KakaoTalk_20260813_112452547.jpg>)
 
 *▲ 광학 테이블 위 조립 예정 공간 확보 — 아직 부품 조립 전, 입고된 콜리메이터·부품을 배치해둔 상태*
 
 ### 3. 설계 자료
 
-![optical path diagram](<관련자료/04_optical_path_diagram.png>)
+![optical path diagram](<관련자료/image.png>)
 
 *▲ 설계 단계에서 직접 스케치한 광 경로 다이어그램 — 광원부터 검출기까지 편광 회전 지점(−45°/+45°)과 빔스플리터 분기 구조를 정리*
 
