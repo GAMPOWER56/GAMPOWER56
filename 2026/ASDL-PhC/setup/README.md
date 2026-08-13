@@ -1,4 +1,4 @@
-# Free-Space Cross-Polarization PhC Cavity Measurement System | ASDL (2026.03 ~ 진행 중)
+# 🔭 Free-Space Cross-Polarization PhC Cavity Measurement System | ASDL (2026.03 ~ 진행 중)
 
 > **한양대학교 ERICA ASDL(김영현 교수님 연구실) 학부연구생**
 > **기간:** 2026.03 ~ 진행 중
@@ -56,14 +56,27 @@
 
 ## 🎥 Evidence
 
-> 📸 *사진 추가 예정 — 아래는 추가 시 넣으면 좋을 항목 가이드*
+### 1. 부품 입고
 
-| 넣으면 좋은 사진/자료 | 이유 |
-|------|------|
-| **직접 그린 광 경로 다이어그램** (설계 단계에서 스케치한 자료) | 광학계를 처음부터 직접 설계했다는 가장 직관적인 증거 — 이미 보유 중인 자료라 우선 추가 권장 |
-| 부품 구매/입고 사진 (레이저, 콜리메이터, 대물렌즈 등) | 실제 조달 진행 과정 증빙 |
-| 조립 중인 광학 테이블 사진 | 조립 과정을 시각적으로 보여줌 (조립 완료 전이라도 진행 중 사진 의미 있음) |
-| 편광판 교차(45°/−45°) 세팅 클로즈업 | cross-polarization 방식 구현을 시각적으로 설명 |
+![collimator delivery](<관련자료/01_collimator_delivery.jpg>)
+
+*▲ 입력·출력용 콜리메이터(Thorlabs C20APC-C) 2개 입고 확인*
+
+![beamsplitter delivery](<관련자료/02_beamsplitter_delivery.jpg>)
+
+*▲ 30mm 케이지 마운트형 비편광 50:50 빔스플리터 큐브(Thorlabs CCM1-BS0□□/M 시리즈) 3개 입고 확인*
+
+### 2. 작업 공간 준비
+
+![workspace setup](<관련자료/03_workspace_setup.jpg>)
+
+*▲ 광학 테이블 위 조립 예정 공간 확보 — 아직 부품 조립 전, 입고된 콜리메이터·부품을 배치해둔 상태*
+
+### 3. 설계 자료
+
+![optical path diagram](<관련자료/04_optical_path_diagram.png>)
+
+*▲ 설계 단계에서 직접 스케치한 광 경로 다이어그램 — 광원부터 검출기까지 편광 회전 지점(−45°/+45°)과 빔스플리터 분기 구조를 정리*
 
 ---
 
