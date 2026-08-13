@@ -50,10 +50,9 @@
 ### [ASDL | PhC 광학계 구축 · 소자 설계](./2026/ASDL-PhC)
 > 2026.03 ~ 진행 중
 
-- MIT Englund Group으로부터 받은 BTO PhC L3 캐비티 소자 측정계 구축
-- Thorlabs C20APC-C 콜리메이터, Mitutoyo NA 0.65 대물렌즈 등 C-band 광학계 셋업
-- KLayout으로 PhC · SiN 나노빔 소자 레이아웃 설계 및 외주 공정 참여
-- **얻은 것**: 광학 측정계 구축 실무, 소자 설계 → 공정 → 측정 전 사이클 경험
+- 그레이팅 커플러 없이 자유공간 cross-polarization 방식으로 측정 가능한 W1 line-defect PhC 캐비티 자체 설계 (SiN-on-Si)
+- Lumerical FDTD + Python GME 하이브리드 시뮬레이션, Thorlabs C20APC-C 콜리메이터·Olympus LCPLN50XIR 대물렌즈 등으로 C-band 자유공간 측정계 구축
+- **얻은 것**: 시뮬레이션 방법론 검증부터 광학 측정계 설계까지, 소자 설계 → 마스크 제작 → 측정 전 사이클 경험
 
 ---
 
