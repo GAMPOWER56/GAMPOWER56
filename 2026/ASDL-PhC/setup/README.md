@@ -1,4 +1,4 @@
-# 🔭 Free-Space Cross-Polarization PhC Cavity Measurement System | ASDL (2026.03 ~ 진행 중)
+# Free-Space Cross-Polarization PhC Cavity Measurement System | ASDL (2026.03 ~ 진행 중)
 
 > **한양대학교 ERICA ASDL(김영현 교수님 연구실) 학부연구생**
 > **기간:** 2026.03 ~ 진행 중
