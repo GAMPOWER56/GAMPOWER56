@@ -11,10 +11,10 @@
 
 | 분야 | 도구 |
 |------|------|
-| Simulation | Lumerical FDTD · MODE · KLayout |
-| Programming | Python · C/C++ · ROS2 |
-| Metrology | Taylor Hobson · 자동레벨 · 데오도라이트 |
-| EDA / SW | KLayout · Isaac Sim |
+| Simulation | ![Lumerical FDTD](https://img.shields.io/badge/Lumerical_FDTD-1F2D4A?style=flat-square) ![MODE](https://img.shields.io/badge/MODE-1F2D4A?style=flat-square) ![legume GME](https://img.shields.io/badge/legume_GME-1F2D4A?style=flat-square) |
+| Layout / EDA | ![KLayout](https://img.shields.io/badge/KLayout-1F2D4A?style=flat-square) ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-1F2D4A?style=flat-square) |
+| Programming | ![Python](https://img.shields.io/badge/Python-1F2D4A?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-1F2D4A?style=flat-square) ![ROS2](https://img.shields.io/badge/ROS2-1F2D4A?style=flat-square) |
+| Metrology | ![Taylor Hobson](https://img.shields.io/badge/Taylor_Hobson-1F2D4A?style=flat-square) ![Auto Level](https://img.shields.io/badge/Auto_Level-1F2D4A?style=flat-square) ![Theodolite](https://img.shields.io/badge/Theodolite-1F2D4A?style=flat-square) |
 
 ---
 
@@ -59,10 +59,10 @@
 ### [캡스톤 | ONN · 이벤트 카메라 · 메타렌즈 실험](./2026/Capstone-ONN)
 > 2026.03 ~ 진행 중
 
-- Optical Neural Network + 이벤트 카메라 + 메타렌즈를 결합한 광학 컴퓨팅 실험
-- 시뮬레이션 완료 후 측정계 셋업 및 트러블슈팅 진행 중
-- 저널 1저자 게재 목표
-- **얻은 것**: 광학 실험 설계 및 측정계 최적화 경험
+- Optical Neural Network + 이벤트 카메라 + 메타렌즈를 결합한 광학 컴퓨팅 실험을 구상 중인 프로젝트 (이제 막 시작한 단계)
+- 문헌 조사, 초기 시뮬레이션, 콜리메이터 · 광파이버 기반 편광 생성 등 기초 광학 실험 진행
+- 저널 논문 게재가 최종 목표이나 아직 확정 전, 현재는 시스템 컨셉을 구체화하는 중
+- **현재**: 실험계 구축 전 단계, 진행되는 대로 업데이트 예정
 
 ---
 
@@ -80,7 +80,7 @@
 
 - OSMnx + 유전 알고리즘 기반 다중 목적지 실시간 경로 최적화 시스템 구현
 - Isaac Sim · ROS2로 휴머노이드 로봇 동역학 제어 시뮬레이션 연계
-- **ICROS 2026 학술대회 포스터 발표**
+- **ICROS 2026 학술대회 논문 투고 · 발표 포스터**
 - **얻은 것**: 알고리즘적 사고, 로봇 제어 시스템 설계 경험
 
 ---
