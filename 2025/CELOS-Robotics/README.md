@@ -7,7 +7,7 @@
 ## 📁 Sub-Projects
 
 ### 1. 🗺️ [OSM_project (Path Optimization)](./OSM_project)
-* **주요 내용:** OSMnx & 유전 알고리즘 기반 다중 목적지 실시간 경로 최적화 및 ICROS 2026 논문 투고
+* **주요 내용:** OSMnx & 유전 알고리즘 기반 다중 목적지 실시간 경로 최적화 및 ICROS 2026 논문 투고·포스터 발표
 * **핵심 성과:** 100개 목적지 연산 속도 0.33초 확보 및 동적 우회 경로 시뮬레이션
 
 ### 2. 🥽 [Teleoperation (VR & Isaac Sim)](./Teleoperation)
