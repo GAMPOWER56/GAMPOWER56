@@ -1,6 +1,6 @@
 # 🗺️ OSMnx & GA-Based Multi-Destination Path Optimization | CELOS Lab
 
-> **ICROS 2026 학술대회 투고 논문 연구**  
+> **ICROS 2026 학술대회 투고 논문 연구 · 포스터 발표**  
 > **주제:** OSMnx 및 유전 알고리즘(GA) 기반 다중 목적지 실시간 경로 최적화 시스템 구현 및 성능 분석  
 > **저자:** 이다겸(제1저자), 한승호(교신저자 / 한양대학교 ERICA 전자공학부)
 
